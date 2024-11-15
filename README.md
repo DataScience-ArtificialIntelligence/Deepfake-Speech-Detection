@@ -2,6 +2,7 @@
 
 ## Description
 This project detects whether an audio file is spoofed or bonafide using fine-tuned model based on CNN.
+Video Presentation: https://drive.google.com/file/d/144SUIeCr--DiC6Gaq-8aLB_dUNo-sWaG/view?usp=sharing
 
 ## Team Members
 - Yashraj Kadam (22bds066)
