@@ -15,14 +15,6 @@ This project detects whether an audio file is spoofed or bonafide using fine-tun
 - Prediction (spoof or bonafide)
 - Visualizations: Waveform, MFCC, and Spectrogram.
 
-## Models
-- resnet101
-- wav2vec2 + bilstm
-- HuBERT
-- wavLM
-- wavNet
-
-
 ## Setup
 This Project is built on Python3.10.0
 1. Clone the repository:
